@@ -1,0 +1,298 @@
+test winter,forecast made on (evening),date predicted,PM2.5 today,actual PM2.5,predicted PM2.5,error,error %,actual category,predicted category,actually hazardous,warning issued
+test 1 (24-25),2024-10-01,2024-10-02,76.8,106.4,92.3,-14.1,13.2,Unhealthy,Unhealthy,no,no
+test 1 (24-25),2024-10-02,2024-10-03,106.4,130.5,114.4,-16.2,12.4,Very Unhealthy,Unhealthy,no,no
+test 1 (24-25),2024-10-03,2024-10-04,130.5,126.8,119.5,-7.4,5.8,Very Unhealthy,Unhealthy,no,no
+test 1 (24-25),2024-10-04,2024-10-05,126.8,66.6,117.5,50.9,76.4,Unhealthy,Unhealthy,no,no
+test 1 (24-25),2024-10-05,2024-10-06,66.6,41.0,74.8,33.8,82.5,USG,Unhealthy,no,no
+test 1 (24-25),2024-10-06,2024-10-07,41.0,92.5,59.9,-32.6,35.3,Unhealthy,Unhealthy,no,no
+test 1 (24-25),2024-10-07,2024-10-08,92.5,105.2,107.2,1.9,1.8,Unhealthy,Unhealthy,no,no
+test 1 (24-25),2024-10-08,2024-10-09,105.2,76.1,107.6,31.5,41.4,Unhealthy,Unhealthy,no,no
+test 1 (24-25),2024-10-09,2024-10-10,76.1,93.2,85.2,-8.0,8.6,Unhealthy,Unhealthy,no,no
+test 1 (24-25),2024-10-10,2024-10-11,93.2,89.5,97.7,8.3,9.3,Unhealthy,Unhealthy,no,no
+test 1 (24-25),2024-10-11,2024-10-12,89.5,104.1,105.1,1.0,1.0,Unhealthy,Unhealthy,no,no
+test 1 (24-25),2024-10-12,2024-10-13,104.1,110.6,110.9,0.4,0.3,Unhealthy,Unhealthy,no,no
+test 1 (24-25),2024-10-13,2024-10-14,110.6,147.8,122.6,-25.2,17.1,Very Unhealthy,Unhealthy,no,no
+test 1 (24-25),2024-10-14,2024-10-15,147.8,111.2,144.2,33.0,29.7,Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-10-15,2024-10-16,111.2,109.9,111.6,1.7,1.5,Unhealthy,Unhealthy,no,no
+test 1 (24-25),2024-10-16,2024-10-17,109.9,114.4,113.0,-1.4,1.2,Unhealthy,Unhealthy,no,no
+test 1 (24-25),2024-10-17,2024-10-18,114.4,222.1,117.8,-104.3,47.0,Very Unhealthy,Unhealthy,no,no
+test 1 (24-25),2024-10-18,2024-10-19,222.1,217.8,226.2,8.5,3.9,Very Unhealthy,Hazardous,no,yes
+test 1 (24-25),2024-10-19,2024-10-20,217.8,226.1,212.5,-13.6,6.0,Hazardous,Very Unhealthy,yes,no
+test 1 (24-25),2024-10-20,2024-10-21,226.1,227.5,231.6,4.1,1.8,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-10-21,2024-10-22,227.5,265.9,218.8,-47.2,17.7,Hazardous,Very Unhealthy,yes,yes
+test 1 (24-25),2024-10-22,2024-10-23,265.9,245.6,261.0,15.4,6.3,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-10-23,2024-10-24,245.6,114.0,198.1,84.1,73.8,Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-10-24,2024-10-25,114.0,119.4,117.0,-2.5,2.1,Unhealthy,Unhealthy,no,no
+test 1 (24-25),2024-10-25,2024-10-26,119.4,153.4,139.5,-13.9,9.0,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-10-26,2024-10-27,153.4,305.2,153.0,-152.2,49.9,Hazardous,Very Unhealthy,yes,no
+test 1 (24-25),2024-10-27,2024-10-28,305.2,314.5,246.5,-68.0,21.6,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-10-28,2024-10-29,314.5,244.3,271.2,26.9,11.0,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-10-29,2024-10-30,244.3,196.6,207.2,10.6,5.4,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-10-30,2024-10-31,196.6,146.0,167.2,21.2,14.6,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-10-31,2024-11-01,146.0,156.6,146.0,-10.6,6.7,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-11-01,2024-11-02,156.6,278.9,197.3,-81.6,29.3,Hazardous,Very Unhealthy,yes,no
+test 1 (24-25),2024-11-02,2024-11-03,278.9,380.8,296.6,-84.2,22.1,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-03,2024-11-04,380.8,246.7,351.7,105.1,42.6,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-04,2024-11-05,246.7,367.9,226.7,-141.2,38.4,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-05,2024-11-06,367.9,569.6,337.8,-231.8,40.7,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-06,2024-11-07,569.6,518.7,491.2,-27.5,5.3,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-07,2024-11-08,518.7,505.2,432.8,-72.4,14.3,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-08,2024-11-09,505.2,444.8,424.4,-20.4,4.6,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-09,2024-11-10,444.8,412.2,397.5,-14.7,3.6,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-10,2024-11-11,412.2,478.9,342.1,-136.8,28.6,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-11,2024-11-12,478.9,423.6,430.7,7.1,1.7,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-12,2024-11-13,423.6,296.0,364.2,68.2,23.1,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-13,2024-11-14,296.0,629.8,290.0,-339.8,54.0,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-14,2024-11-15,629.8,474.1,555.3,81.2,17.1,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-15,2024-11-16,474.1,412.1,423.5,11.4,2.8,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-16,2024-11-17,412.1,201.0,347.0,146.0,72.6,Very Unhealthy,Hazardous,no,yes
+test 1 (24-25),2024-11-17,2024-11-18,201.0,208.9,219.6,10.8,5.1,Very Unhealthy,Very Unhealthy,no,yes
+test 1 (24-25),2024-11-18,2024-11-19,208.9,215.9,262.8,46.9,21.7,Very Unhealthy,Hazardous,no,yes
+test 1 (24-25),2024-11-19,2024-11-20,215.9,256.2,270.8,14.6,5.7,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-20,2024-11-21,256.2,269.9,289.7,19.8,7.3,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-21,2024-11-22,269.9,279.9,256.0,-23.8,8.5,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-22,2024-11-23,279.9,259.2,229.0,-30.2,11.6,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-23,2024-11-24,259.2,249.7,244.4,-5.3,2.1,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-24,2024-11-25,249.7,146.0,229.7,83.7,57.3,Very Unhealthy,Hazardous,no,yes
+test 1 (24-25),2024-11-25,2024-11-26,146.0,213.9,178.7,-35.2,16.4,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-11-26,2024-11-27,213.9,211.6,247.8,36.2,17.1,Very Unhealthy,Hazardous,no,yes
+test 1 (24-25),2024-11-27,2024-11-28,211.6,353.7,245.8,-107.9,30.5,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-28,2024-11-29,353.7,245.4,331.2,85.8,35.0,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-11-29,2024-11-30,245.4,152.3,222.4,70.0,46.0,Very Unhealthy,Very Unhealthy,no,yes
+test 1 (24-25),2024-11-30,2024-12-01,152.3,177.3,196.7,19.4,10.9,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-12-01,2024-12-02,177.3,190.0,216.6,26.7,14.0,Very Unhealthy,Very Unhealthy,no,yes
+test 1 (24-25),2024-12-02,2024-12-03,190.0,133.4,191.2,57.8,43.3,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-12-03,2024-12-04,133.4,90.0,152.6,62.7,69.7,Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-12-04,2024-12-05,90.0,138.8,130.3,-8.5,6.1,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-12-05,2024-12-06,138.8,150.7,175.2,24.6,16.3,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-12-06,2024-12-07,150.7,157.0,192.6,35.6,22.6,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-12-07,2024-12-08,157.0,167.0,147.4,-19.5,11.7,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-12-08,2024-12-09,167.0,164.1,200.6,36.6,22.3,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-12-09,2024-12-10,164.1,157.1,185.5,28.4,18.1,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-12-10,2024-12-11,157.1,192.2,180.0,-12.2,6.4,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-12-11,2024-12-12,192.2,209.3,203.9,-5.4,2.6,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-12-12,2024-12-13,209.3,169.2,191.0,21.9,12.9,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-12-13,2024-12-14,169.2,184.5,189.8,5.3,2.9,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-12-14,2024-12-15,184.5,245.4,239.8,-5.6,2.3,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-12-15,2024-12-16,245.4,319.1,283.0,-36.0,11.3,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-12-16,2024-12-17,319.1,349.8,294.1,-55.6,15.9,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-12-17,2024-12-18,349.8,369.3,300.5,-68.8,18.6,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-12-18,2024-12-19,369.3,356.6,314.3,-42.3,11.9,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-12-19,2024-12-20,356.6,324.7,327.9,3.2,1.0,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-12-20,2024-12-21,324.7,280.9,320.0,39.1,13.9,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-12-21,2024-12-22,280.9,449.2,290.3,-158.9,35.4,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-12-22,2024-12-23,449.2,252.4,343.7,91.3,36.2,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-12-23,2024-12-24,252.4,221.3,248.5,27.2,12.3,Very Unhealthy,Hazardous,no,yes
+test 1 (24-25),2024-12-24,2024-12-25,221.3,280.5,218.8,-61.7,22.0,Hazardous,Very Unhealthy,yes,yes
+test 1 (24-25),2024-12-25,2024-12-26,280.5,297.9,309.4,11.5,3.9,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-12-26,2024-12-27,297.9,349.0,266.0,-83.1,23.8,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-12-27,2024-12-28,349.0,165.1,316.0,150.9,91.4,Very Unhealthy,Hazardous,no,yes
+test 1 (24-25),2024-12-28,2024-12-29,165.1,137.9,186.6,48.7,35.3,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-12-29,2024-12-30,137.9,200.6,180.7,-19.8,9.9,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2024-12-30,2024-12-31,200.6,310.9,238.6,-72.3,23.2,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2024-12-31,2025-01-01,310.9,309.3,291.5,-17.8,5.7,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2025-01-01,2025-01-02,309.3,362.0,313.6,-48.4,13.4,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2025-01-02,2025-01-03,362.0,573.1,337.2,-235.8,41.2,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2025-01-03,2025-01-04,573.1,300.2,494.1,193.8,64.6,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2025-01-04,2025-01-05,300.2,250.1,257.6,7.5,3.0,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2025-01-05,2025-01-06,250.1,242.7,258.6,15.9,6.6,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2025-01-06,2025-01-07,242.7,166.2,224.7,58.5,35.2,Very Unhealthy,Very Unhealthy,no,yes
+test 1 (24-25),2025-01-07,2025-01-08,166.2,189.5,186.9,-2.6,1.4,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-01-08,2025-01-09,189.5,388.0,218.0,-170.1,43.8,Hazardous,Very Unhealthy,yes,yes
+test 1 (24-25),2025-01-09,2025-01-10,388.0,249.5,319.6,70.1,28.1,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2025-01-10,2025-01-11,249.5,251.2,204.2,-47.0,18.7,Hazardous,Very Unhealthy,yes,no
+test 1 (24-25),2025-01-11,2025-01-12,251.2,130.6,196.9,66.3,50.8,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-01-12,2025-01-13,130.6,157.6,145.6,-12.0,7.6,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-01-13,2025-01-14,157.6,178.0,190.4,12.4,6.9,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-01-14,2025-01-15,178.0,313.6,209.4,-104.2,33.2,Hazardous,Very Unhealthy,yes,no
+test 1 (24-25),2025-01-15,2025-01-16,313.6,243.0,261.6,18.6,7.7,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2025-01-16,2025-01-17,243.0,215.6,227.1,11.5,5.3,Very Unhealthy,Hazardous,no,yes
+test 1 (24-25),2025-01-17,2025-01-18,215.6,273.7,238.5,-35.2,12.9,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2025-01-18,2025-01-19,273.7,299.0,292.1,-6.8,2.3,Hazardous,Hazardous,yes,yes
+test 1 (24-25),2025-01-19,2025-01-20,299.0,164.5,249.3,84.8,51.5,Very Unhealthy,Hazardous,no,yes
+test 1 (24-25),2025-01-20,2025-01-21,164.5,134.1,163.7,29.6,22.1,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-01-21,2025-01-22,134.1,169.1,152.2,-16.9,10.0,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-01-22,2025-01-23,169.1,120.8,169.4,48.6,40.2,Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-01-23,2025-01-24,120.8,122.9,130.9,8.1,6.6,Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-01-24,2025-01-25,122.9,181.0,147.6,-33.4,18.5,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-01-25,2025-01-26,181.0,194.5,189.0,-5.6,2.9,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-01-26,2025-01-27,194.5,209.5,206.0,-3.5,1.7,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-01-27,2025-01-28,209.5,201.8,240.5,38.7,19.2,Very Unhealthy,Hazardous,no,yes
+test 1 (24-25),2025-01-28,2025-01-29,201.8,218.5,180.1,-38.4,17.6,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-01-29,2025-01-30,218.5,222.3,189.8,-32.5,14.6,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-01-30,2025-01-31,222.3,217.4,251.3,34.0,15.6,Very Unhealthy,Hazardous,no,yes
+test 1 (24-25),2025-01-31,2025-02-01,217.4,219.4,217.4,-2.0,0.9,Very Unhealthy,Very Unhealthy,no,yes
+test 1 (24-25),2025-02-01,2025-02-02,219.4,196.8,209.9,13.1,6.6,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-02,2025-02-03,196.8,163.8,197.7,33.9,20.7,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-03,2025-02-04,163.8,153.2,186.6,33.4,21.8,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-04,2025-02-05,153.2,177.2,163.8,-13.4,7.5,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-05,2025-02-06,177.2,215.7,169.0,-46.6,21.6,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-06,2025-02-07,215.7,114.0,176.5,62.5,54.8,Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-07,2025-02-08,114.0,154.6,134.2,-20.4,13.2,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-08,2025-02-09,154.6,213.0,189.2,-23.7,11.1,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-09,2025-02-10,213.0,199.9,238.2,38.4,19.2,Very Unhealthy,Hazardous,no,yes
+test 1 (24-25),2025-02-10,2025-02-11,199.9,184.4,193.6,9.2,5.0,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-11,2025-02-12,184.4,81.9,157.0,75.1,91.8,Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-12,2025-02-13,81.9,119.8,93.1,-26.7,22.3,Unhealthy,Unhealthy,no,no
+test 1 (24-25),2025-02-13,2025-02-14,119.8,124.2,134.5,10.3,8.3,Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-14,2025-02-15,124.2,105.6,148.4,42.8,40.5,Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-15,2025-02-16,105.6,157.8,128.0,-29.8,18.9,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-16,2025-02-17,157.8,143.2,187.3,44.1,30.8,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-17,2025-02-18,143.2,154.7,141.7,-13.0,8.4,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-18,2025-02-19,154.7,135.4,145.4,10.0,7.4,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-20,2025-02-21,102.2,69.1,117.2,48.1,69.7,Unhealthy,Unhealthy,no,no
+test 1 (24-25),2025-02-21,2025-02-22,69.1,106.1,79.3,-26.8,25.2,Unhealthy,Unhealthy,no,no
+test 1 (24-25),2025-02-22,2025-02-23,106.1,143.4,129.4,-14.1,9.8,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-24,2025-02-25,137.2,131.0,139.9,8.9,6.8,Very Unhealthy,Very Unhealthy,no,no
+test 1 (24-25),2025-02-27,2025-02-28,88.1,66.7,85.4,18.8,28.2,Unhealthy,Unhealthy,no,no
+test 1 (24-25),2025-02-28,2025-03-01,66.7,92.9,81.1,-11.8,12.7,Unhealthy,Unhealthy,no,no
+test 2 (25-26),2025-10-01,2025-10-02,126.5,112.1,128.6,16.5,14.7,Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2025-10-02,2025-10-03,112.1,78.3,118.0,39.8,50.8,Unhealthy,Unhealthy,no,no
+test 2 (25-26),2025-10-03,2025-10-04,78.3,130.2,96.4,-33.8,26.0,Very Unhealthy,Unhealthy,no,no
+test 2 (25-26),2025-10-04,2025-10-05,130.2,71.9,115.8,43.9,61.1,Unhealthy,Unhealthy,no,no
+test 2 (25-26),2025-10-05,2025-10-06,71.9,39.6,48.4,8.8,22.1,USG,USG,no,no
+test 2 (25-26),2025-10-06,2025-10-07,39.6,32.7,50.5,17.8,54.3,Good/Moderate,USG,no,no
+test 2 (25-26),2025-10-07,2025-10-08,32.7,71.7,60.5,-11.2,15.6,Unhealthy,Unhealthy,no,no
+test 2 (25-26),2025-10-08,2025-10-09,71.7,82.7,90.6,7.9,9.6,Unhealthy,Unhealthy,no,no
+test 2 (25-26),2025-10-09,2025-10-10,82.7,78.0,88.7,10.8,13.8,Unhealthy,Unhealthy,no,no
+test 2 (25-26),2025-10-10,2025-10-11,78.0,105.1,83.5,-21.6,20.5,Unhealthy,Unhealthy,no,no
+test 2 (25-26),2025-10-11,2025-10-12,105.1,102.0,110.3,8.3,8.1,Unhealthy,Unhealthy,no,no
+test 2 (25-26),2025-10-12,2025-10-13,102.0,102.9,106.6,3.7,3.6,Unhealthy,Unhealthy,no,no
+test 2 (25-26),2025-10-13,2025-10-14,102.9,162.0,119.4,-42.6,26.3,Very Unhealthy,Unhealthy,no,no
+test 2 (25-26),2025-10-14,2025-10-15,162.0,194.4,182.2,-12.1,6.2,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2025-10-15,2025-10-16,194.4,197.4,193.8,-3.6,1.8,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2025-10-16,2025-10-17,197.4,209.7,203.1,-6.6,3.1,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2025-10-17,2025-10-18,209.7,199.9,209.2,9.3,4.7,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2025-10-18,2025-10-19,199.9,217.6,206.9,-10.7,4.9,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2025-10-19,2025-10-20,217.6,229.2,220.0,-9.3,4.0,Hazardous,Very Unhealthy,yes,yes
+test 2 (25-26),2025-10-20,2025-10-21,229.2,217.0,254.0,37.0,17.1,Very Unhealthy,Hazardous,no,yes
+test 2 (25-26),2025-10-21,2025-10-22,217.0,188.9,213.2,24.3,12.9,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2025-10-22,2025-10-23,188.9,213.9,202.0,-11.9,5.6,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2025-10-23,2025-10-24,213.9,273.2,230.0,-43.2,15.8,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-10-24,2025-10-25,273.2,287.9,271.1,-16.9,5.9,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-10-25,2025-10-26,287.9,287.3,307.9,20.6,7.2,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-10-26,2025-10-27,287.3,261.0,311.9,50.9,19.5,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-10-27,2025-10-28,261.0,298.9,269.1,-29.8,10.0,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-10-28,2025-10-29,298.9,399.2,303.2,-96.0,24.0,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-10-29,2025-10-30,399.2,382.1,338.8,-43.3,11.3,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-10-30,2025-10-31,382.1,319.7,324.3,4.6,1.4,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-10-31,2025-11-01,319.7,314.8,273.0,-41.8,13.3,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-01,2025-11-02,314.8,280.0,265.9,-14.1,5.0,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-02,2025-11-03,280.0,316.0,310.9,-5.1,1.6,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-03,2025-11-04,316.0,265.9,246.6,-19.3,7.3,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-04,2025-11-05,265.9,110.4,234.0,123.6,112.0,Unhealthy,Hazardous,no,yes
+test 2 (25-26),2025-11-05,2025-11-06,110.4,154.6,127.1,-27.5,17.8,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2025-11-06,2025-11-07,154.6,218.2,184.8,-33.4,15.3,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2025-11-07,2025-11-08,218.2,252.5,213.1,-39.3,15.6,Hazardous,Very Unhealthy,yes,no
+test 2 (25-26),2025-11-08,2025-11-09,252.5,257.3,234.9,-22.4,8.7,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-09,2025-11-10,257.3,289.1,274.5,-14.7,5.1,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-10,2025-11-11,289.1,325.8,298.0,-27.8,8.5,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-11,2025-11-12,325.8,343.5,268.0,-75.5,22.0,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-12,2025-11-13,343.5,284.2,275.9,-8.3,2.9,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-14,2025-11-15,305.6,327.0,314.6,-12.4,3.8,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-15,2025-11-16,327.0,281.2,306.6,25.4,9.0,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-16,2025-11-17,281.2,317.9,305.2,-12.7,4.0,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-17,2025-11-18,317.9,359.4,324.4,-35.0,9.7,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-18,2025-11-19,359.4,297.7,337.8,40.1,13.5,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-19,2025-11-20,297.7,302.6,322.3,19.7,6.5,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-20,2025-11-21,302.6,306.3,319.4,13.1,4.3,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-21,2025-11-22,306.3,278.1,295.6,17.5,6.3,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-22,2025-11-23,278.1,257.3,266.8,9.4,3.7,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-23,2025-11-24,257.3,229.2,264.8,35.6,15.5,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-24,2025-11-25,229.2,253.7,212.7,-41.0,16.2,Hazardous,Very Unhealthy,yes,no
+test 2 (25-26),2025-11-25,2025-11-26,253.7,217.0,274.8,57.8,26.6,Very Unhealthy,Hazardous,no,yes
+test 2 (25-26),2025-11-26,2025-11-27,217.0,273.8,230.2,-43.6,15.9,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-27,2025-11-28,273.8,259.8,258.8,-1.0,0.4,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-11-28,2025-11-29,259.8,199.9,242.3,42.4,21.2,Very Unhealthy,Hazardous,no,yes
+test 2 (25-26),2025-11-29,2025-11-30,199.9,207.8,199.5,-8.3,4.0,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2025-11-30,2025-12-01,207.8,210.9,238.9,28.0,13.3,Very Unhealthy,Hazardous,no,yes
+test 2 (25-26),2025-12-01,2025-12-02,210.9,263.5,240.4,-23.0,8.7,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-02,2025-12-03,263.5,257.3,257.0,-0.3,0.1,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-03,2025-12-04,257.3,219.4,236.6,17.1,7.8,Very Unhealthy,Hazardous,no,yes
+test 2 (25-26),2025-12-04,2025-12-05,219.4,265.9,220.8,-45.1,17.0,Hazardous,Very Unhealthy,yes,yes
+test 2 (25-26),2025-12-05,2025-12-06,265.9,252.5,244.0,-8.4,3.3,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-06,2025-12-07,252.5,215.8,234.5,18.7,8.7,Very Unhealthy,Hazardous,no,yes
+test 2 (25-26),2025-12-07,2025-12-08,215.8,207.2,220.3,13.0,6.3,Very Unhealthy,Very Unhealthy,no,yes
+test 2 (25-26),2025-12-08,2025-12-09,207.2,214.5,209.7,-4.8,2.3,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2025-12-09,2025-12-10,214.5,239.0,218.7,-20.3,8.5,Hazardous,Very Unhealthy,yes,yes
+test 2 (25-26),2025-12-10,2025-12-11,239.0,330.7,268.3,-62.4,18.9,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-11,2025-12-12,330.7,344.2,315.3,-28.9,8.4,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-12,2025-12-13,344.2,366.2,285.0,-81.2,22.2,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-13,2025-12-14,366.2,344.8,313.8,-30.9,9.0,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-14,2025-12-15,344.8,296.5,280.1,-16.4,5.5,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-15,2025-12-16,296.5,261.0,261.6,0.5,0.2,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-16,2025-12-17,261.0,232.9,239.4,6.5,2.8,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-17,2025-12-18,232.9,234.1,238.6,4.5,1.9,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-18,2025-12-19,234.1,314.2,257.2,-57.0,18.1,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-19,2025-12-20,314.2,287.9,302.2,14.3,5.0,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-20,2025-12-21,287.9,306.3,269.8,-36.5,11.9,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-21,2025-12-22,306.3,352.7,317.7,-35.0,9.9,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-22,2025-12-23,352.7,204.8,277.0,72.3,35.3,Very Unhealthy,Hazardous,no,yes
+test 2 (25-26),2025-12-23,2025-12-24,204.8,113.9,186.6,72.6,63.8,Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2025-12-24,2025-12-25,113.9,136.3,148.4,12.1,8.9,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2025-12-25,2025-12-26,136.3,196.8,180.9,-15.9,8.1,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2025-12-26,2025-12-27,196.8,251.2,225.7,-25.6,10.2,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-27,2025-12-28,251.2,335.6,268.0,-67.6,20.1,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-28,2025-12-29,335.6,317.9,295.7,-22.2,7.0,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-29,2025-12-30,317.9,280.6,305.5,24.9,8.9,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-30,2025-12-31,280.6,317.3,266.7,-50.5,15.9,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2025-12-31,2026-01-01,317.3,326.4,275.4,-51.0,15.6,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2026-01-01,2026-01-02,326.4,226.2,283.3,57.1,25.2,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2026-01-02,2026-01-03,226.2,193.8,210.9,17.2,8.9,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-01-03,2026-01-04,193.8,148.5,183.1,34.5,23.2,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-01-04,2026-01-05,148.5,138.1,152.4,14.3,10.3,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-01-05,2026-01-06,138.1,171.8,153.5,-18.2,10.6,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-01-06,2026-01-07,171.8,202.3,189.0,-13.4,6.6,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-01-07,2026-01-08,202.3,218.2,220.0,1.7,0.8,Very Unhealthy,Very Unhealthy,no,yes
+test 2 (25-26),2026-01-08,2026-01-09,218.2,191.3,252.8,61.4,32.1,Very Unhealthy,Hazardous,no,yes
+test 2 (25-26),2026-01-09,2026-01-10,191.3,189.5,181.3,-8.2,4.3,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-01-10,2026-01-11,189.5,213.3,199.4,-14.0,6.5,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-01-11,2026-01-12,213.3,275.7,237.9,-37.8,13.7,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2026-01-12,2026-01-13,275.7,240.8,285.8,45.0,18.7,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2026-01-13,2026-01-14,240.8,280.0,249.6,-30.4,10.9,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2026-01-14,2026-01-15,280.0,265.9,296.5,30.6,11.5,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2026-01-15,2026-01-16,265.9,267.7,277.9,10.1,3.8,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2026-01-16,2026-01-17,267.7,247.6,275.6,28.1,11.3,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2026-01-17,2026-01-18,247.6,301.4,280.4,-21.0,7.0,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2026-01-18,2026-01-19,301.4,291.6,326.0,34.4,11.8,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2026-01-19,2026-01-20,291.6,361.9,261.7,-100.2,27.7,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2026-01-20,2026-01-21,361.9,257.3,304.3,47.0,18.3,Hazardous,Hazardous,yes,yes
+test 2 (25-26),2026-01-21,2026-01-22,257.3,170.5,197.0,26.4,15.5,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-01-22,2026-01-23,170.5,58.9,129.3,70.4,119.5,Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-01-23,2026-01-24,58.9,107.2,88.0,-19.2,17.9,Unhealthy,Unhealthy,no,no
+test 2 (25-26),2026-01-24,2026-01-25,107.2,118.4,133.7,15.2,12.9,Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-01-25,2026-01-26,118.4,160.7,161.2,0.5,0.3,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-01-26,2026-01-27,160.7,88.2,157.4,69.1,78.3,Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-01-27,2026-01-28,88.2,101.1,109.1,8.0,7.9,Unhealthy,Unhealthy,no,no
+test 2 (25-26),2026-01-28,2026-01-29,101.1,124.7,114.6,-10.0,8.1,Unhealthy,Unhealthy,no,no
+test 2 (25-26),2026-01-29,2026-01-30,124.7,133.2,149.4,16.2,12.1,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-01-30,2026-01-31,133.2,201.1,141.5,-59.6,29.7,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-01-31,2026-02-01,201.1,173.0,219.6,46.6,27.0,Very Unhealthy,Very Unhealthy,no,yes
+test 2 (25-26),2026-02-01,2026-02-02,173.0,191.3,179.8,-11.5,6.0,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-02,2026-02-03,191.3,180.3,192.8,12.5,6.9,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-03,2026-02-04,180.3,173.6,177.7,4.1,2.4,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-04,2026-02-05,173.6,149.7,173.5,23.8,15.9,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-05,2026-02-06,149.7,166.9,147.7,-19.1,11.5,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-06,2026-02-07,166.9,114.7,141.4,26.7,23.3,Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-07,2026-02-08,114.7,125.3,133.8,8.5,6.8,Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-08,2026-02-09,125.3,167.5,155.3,-12.1,7.2,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-09,2026-02-10,167.5,167.5,148.6,-18.9,11.3,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-10,2026-02-11,167.5,84.9,135.7,50.7,59.7,Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-11,2026-02-12,84.9,140.0,97.6,-42.4,30.3,Very Unhealthy,Unhealthy,no,no
+test 2 (25-26),2026-02-12,2026-02-13,140.0,133.8,140.4,6.6,4.9,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-13,2026-02-14,133.8,191.3,149.9,-41.4,21.6,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-14,2026-02-15,191.3,164.4,176.1,11.7,7.1,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-15,2026-02-16,164.4,195.0,191.1,-3.9,2.0,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-16,2026-02-17,195.0,179.1,172.4,-6.7,3.8,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-17,2026-02-18,179.1,188.9,174.5,-14.4,7.6,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-18,2026-02-19,188.9,221.3,203.5,-17.8,8.0,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-19,2026-02-20,221.3,228.0,196.7,-31.3,13.7,Hazardous,Very Unhealthy,yes,no
+test 2 (25-26),2026-02-20,2026-02-21,228.0,153.4,187.6,34.2,22.3,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-21,2026-02-22,153.4,185.8,170.5,-15.3,8.2,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-22,2026-02-23,185.8,163.2,197.0,33.8,20.7,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-23,2026-02-24,163.2,172.4,165.1,-7.3,4.2,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-24,2026-02-25,172.4,162.0,176.7,14.7,9.1,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-25,2026-02-26,162.0,165.6,157.6,-8.1,4.9,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-26,2026-02-27,165.6,142.4,188.8,46.4,32.6,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-27,2026-02-28,142.4,157.1,147.6,-9.5,6.0,Very Unhealthy,Very Unhealthy,no,no
+test 2 (25-26),2026-02-28,2026-03-01,157.1,133.8,142.8,8.9,6.7,Very Unhealthy,Very Unhealthy,no,no
