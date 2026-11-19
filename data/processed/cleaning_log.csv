@@ -1,0 +1,13 @@
+dataset,step,rows before,rows after,rows affected
+reference hourly,"invalid values (-999, negative, >1500) set to missing",44516,44516,8107
+reference hourly,duplicate hours removed,44516,44516,0
+reference daily,days with < 18 valid hours set to missing,1909,1909,445
+low-cost daily,sensor-days with < 18 hourly readings removed,21821,18258,3563
+low-cost daily,impossible daily means (<= 0 or >= 1500) removed,18258,18258,0
+low-cost daily,'test' devices removed,18258,18258,0
+low-cost daily,"outliers removed (> 3x or < 1/3 of the city median, days with >= 5 sensors)",18258,18195,63
+weather hourly,"duplicate (site, hour) rows removed",389448,389448,0
+fires,duplicate detections removed,3274955,3274955,0
+fires,low-confidence detections removed,3274955,2843723,431232
+fires,"static land sources / offshore (type 2, 3) removed",2843723,2780460,63263
+fires,country assigned from the border line (2026 API rows),2780460,2780460,99499

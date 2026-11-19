@@ -1,0 +1,30 @@
+{
+  "selected_features": [
+    "pm25_today",
+    "pm25_yesterday",
+    "pm25_avg_last7days",
+    "boundary_layer_tomorrow",
+    "temp_tomorrow",
+    "humidity_tomorrow",
+    "wind_speed_tomorrow",
+    "rain_tomorrow",
+    "wind_dir_sin_tomorrow",
+    "wind_dir_cos_tomorrow",
+    "fires_upwind_last3days",
+    "fires_300km_last3days",
+    "fire_intensity_300km_today",
+    "month",
+    "smog_season"
+  ],
+  "fire_features": [
+    "fires_upwind_last3days",
+    "fires_300km_last3days",
+    "fire_intensity_300km_today"
+  ],
+  "targets": {
+    "regression": "pm25_tomorrow",
+    "multiclass": "aqi_category_tomorrow",
+    "binary": "hazardous_tomorrow"
+  },
+  "hazardous_threshold_ug_m3": 225.5
+}

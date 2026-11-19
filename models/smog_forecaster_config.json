@@ -1,0 +1,61 @@
+{
+  "features": [
+    "pm25_today",
+    "pm25_yesterday",
+    "pm25_avg_last7days",
+    "boundary_layer_tomorrow",
+    "temp_tomorrow",
+    "humidity_tomorrow",
+    "wind_speed_tomorrow",
+    "rain_tomorrow",
+    "wind_dir_sin_tomorrow",
+    "wind_dir_cos_tomorrow",
+    "fires_upwind_last3days",
+    "fires_300km_last3days",
+    "fire_intensity_300km_today",
+    "month",
+    "smog_season"
+  ],
+  "target": "change (pm25_tomorrow - pm25_today)",
+  "warning_threshold_ug_m3": 215.0,
+  "hazardous_level_ug_m3": 225.5,
+  "category_bins": [
+    null,
+    35.4,
+    55.4,
+    125.4,
+    225.4,
+    null
+  ],
+  "category_labels": [
+    "Good/Moderate",
+    "USG",
+    "Unhealthy",
+    "Very Unhealthy",
+    "Hazardous"
+  ],
+  "trained_on": "2019-05-28 to 2026-10-17 (1910 rows)",
+  "scikit_learn_version": "1.9.1",
+  "test_mae": {
+    "test 1 (24-25)": 44.32,
+    "test 2 (25-26)": 26.94
+  },
+  "hyperparameters": {
+    "Ridge": {
+      "ridge__alpha": 145.2824663751601
+    },
+    "Random Forest": {
+      "max_depth": null,
+      "max_features": 0.5,
+      "min_samples_leaf": 3,
+      "n_estimators": 300
+    },
+    "Gradient Boosting": {
+      "l2_regularization": 0.0070689749506246055,
+      "learning_rate": 0.017240892195821537,
+      "max_iter": 376,
+      "max_leaf_nodes": 4,
+      "min_samples_leaf": 67
+    }
+  }
+}
