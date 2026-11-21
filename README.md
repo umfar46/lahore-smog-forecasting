@@ -29,6 +29,9 @@ The project has two notebooks:
 
 Both notebooks are saved **with all outputs**, so the results can be read on GitHub without running anything.
 
+**Open in Google Colab:**
+[Phase 1 notebook](https://colab.research.google.com/github/umfar46/lahore-smog-forecasting/blob/main/Lahore_Smog_Phase1_EDA.ipynb) · [Phase 2 notebook](https://colab.research.google.com/github/umfar46/lahore-smog-forecasting/blob/main/Lahore_Smog_Phase2_Modelling.ipynb). Click **Runtime → Run all**; the data downloads automatically.
+
 ## 2. Results
 
 Final model: an **ensemble** (average) of tuned Ridge, Random Forest and tuned Histogram Gradient Boosting. It predicts the *change* from today's PM2.5, using 15 features. It was evaluated on two smog winters that were never used for training or tuning:
@@ -97,20 +100,20 @@ Install them locally with `pip install -r requirements.txt`.
 ## 6. How to reproduce the results
 
 ### Option A: Google Colab (no installation)
-1. Open <https://colab.research.google.com>, then choose **File → Open notebook → GitHub**, paste this repository's URL and pick a notebook.
+1. Click one of the **Open in Google Colab** links above, or in Colab choose **File → Open notebook → GitHub** and paste `umfar46/lahore-smog-forecasting`.
 2. Click **Runtime → Run all**. The data is downloaded automatically (Section 1 of each notebook).
 3. Run time: about 1–2 minutes for Phase 1 and 3–5 minutes for Phase 2.
 
 *Or* clone the whole repository in a Colab cell, so that the notebooks use the data from the repository:
 ```python
-!git clone https://github.com/<your-username>/lahore-smog-forecasting.git
+!git clone https://github.com/umfar46/lahore-smog-forecasting.git
 %cd lahore-smog-forecasting
 ```
 Then open the notebook from the Files panel (`lahore-smog-forecasting/`) and choose Run all.
 
 ### Option B: on your own computer
 ```bash
-git clone https://github.com/<your-username>/lahore-smog-forecasting.git
+git clone https://github.com/umfar46/lahore-smog-forecasting.git
 cd lahore-smog-forecasting
 python -m venv .venv
 .venv\Scripts\activate            # Windows   (Mac/Linux: source .venv/bin/activate)
